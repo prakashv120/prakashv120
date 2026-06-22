@@ -4,15 +4,32 @@ I'm Prakash, a Computer Science & Engineering (AI & ML) student at Ramaiah Insti
 
 I enjoy building AI-powered applications and full-stack web solutions that solve real-world problems.
 
-My main tech stack includes Java, Python, React.js, Spring Boot, PostgreSQL, MongoDB, AWS, and Docker.
+I'm currently learning Data Structures & Algorithms, Machine Learning, Cloud Technologies, and scalable backend systems.
 
-I'm currently learning more about Data Structures & Algorithms, Machine Learning, Cloud Technologies, and scalable backend systems.
+I enjoy working on both AI and full-stack development and I'm always eager to learn new technologies and frameworks.
 
-I believe in learning by building, writing clean code, and continuously improving my problem-solving skills.
+This is where I share my projects, experiments, and things I'm currently exploring.
 
-### Fun Facts:
+---
 
-* 💻 I enjoy working on both AI and full-stack development.
+## Tools & Tech
+
+* Java, Python, JavaScript
+* React.js, HTML5, CSS3
+* Spring Boot, REST APIs
+* PostgreSQL, MongoDB
+* AWS, Docker, Jenkins
+* Git, GitHub, VS Code
+
+---
+
+## A Bit About Me
+
 * 🏏 I enjoy playing cricket.
 * 🎮 I like playing mobile and laptop games.
 * 🌱 Eager to learn new technologies and frameworks.
+
+---
+
+📫 Reach me: **[1ms23ci087@msrit.edu](mailto:1ms23ci087@msrit.edu)**
+🔗 LinkedIn: **linkedin.com/in/prakash-v-120**
