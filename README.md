@@ -1,14 +1,18 @@
 ## Hi there 👋, I'm Prakash V
 
-🎓 B.E. CSE (AI & ML) Student at Ramaiah Institute of Technology
+I'm Prakash, a Computer Science & Engineering (AI & ML) student at Ramaiah Institute of Technology.
 
-💻 Full Stack Developer | AI Enthusiast
+I enjoy building AI-powered applications and full-stack web solutions that solve real-world problems.
 
-🌱 Currently learning Data Structures & Algorithms, Machine Learning, and Cloud Technologies
+My main tech stack includes Java, Python, React.js, Spring Boot, PostgreSQL, MongoDB, AWS, and Docker.
 
-💬 Ask me about Java, Python, React.js, Spring Boot, REST APIs, and PostgreSQL
+I'm currently learning more about Data Structures & Algorithms, Machine Learning, Cloud Technologies, and scalable backend systems.
 
-⚡ Interested in building scalable web applications and AI-powered solutions
+I believe in learning by building, writing clean code, and continuously improving my problem-solving skills.
 
-📫 Reach me: [1ms23ci087@msrit.edu](mailto:1ms23ci087@msrit.edu)
+### Fun Facts:
 
+* 💻 I enjoy working on both AI and full-stack development.
+* 🏏 I enjoy playing cricket.
+* 🎮 I like playing mobile and laptop games.
+* 🌱 Eager to learn new technologies and frameworks.
