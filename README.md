@@ -30,6 +30,3 @@ This is where I share my projects, experiments, and things I'm currently explori
 * 🌱 Eager to learn new technologies and frameworks.
 
 ---
-
-📫 Reach me: **[1ms23ci087@msrit.edu](mailto:1ms23ci087@msrit.edu)**
-🔗 LinkedIn: **linkedin.com/in/prakash-v-120**
