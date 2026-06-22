@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋, I'm Prakash V
 
-<!--
-**prakashv120/prakashv120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. CSE (AI & ML) Student at Ramaiah Institute of Technology
 
-Here are some ideas to get you started:
+💻 Full Stack Developer | AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Data Structures & Algorithms, Machine Learning, and Cloud Technologies
+
+💬 Ask me about Java, Python, React.js, Spring Boot, REST APIs, and PostgreSQL
+
+⚡ Interested in building scalable web applications and AI-powered solutions
+
+📫 Reach me: [1ms23ci087@msrit.edu](mailto:1ms23ci087@msrit.edu)
+
