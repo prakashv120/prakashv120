@@ -10,7 +10,6 @@ I enjoy working on both AI and full-stack development and I'm always eager to le
 
 This is where I share my projects, experiments, and things I'm currently exploring.
 
----
 
 ## Tools & Tech
 
@@ -21,7 +20,6 @@ This is where I share my projects, experiments, and things I'm currently explori
 * AWS, Docker, Jenkins
 * Git, GitHub, VS Code
 
----
 
 ## A Bit About Me
 
@@ -29,4 +27,3 @@ This is where I share my projects, experiments, and things I'm currently explori
 * 🎮 I like playing mobile and laptop games.
 * 🌱 Eager to learn new technologies and frameworks.
 
----
