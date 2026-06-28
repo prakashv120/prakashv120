@@ -25,5 +25,7 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 # 🌟 A Bit About Me
 
 🏏 I enjoy playing cricket.
+
 🎮 I like playing mobile and laptop games.
+
 🌱 Eager to learn new technologies and frameworks.
